@@ -4,7 +4,7 @@
 1. Install Node.js
 2. Download/clone this repository 
 3. Open the folder and type `npm install` 
-4. Type `npm start` to run. It should be running on `localhost:3000` unless you have other applications running simultaneously
+4. Type `npm start` to run. It should be running on `localhost:3000` 
 5. Hit `Ctrl+C` to stop running
 
 ### Built With
